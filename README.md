@@ -1,12 +1,12 @@
 Controls:
-WASD - Movement 
-Space - Jump 
-E - Spellbook 
-C - Statistics 
-O - Level up 
-Shift - Enter cast mode 
-RightClick - Barrier/Cancel selected spell(if one is selected) 
-LeftClick - Fire/Draw(if in cast mode)/Cast selected spell(if one is selected) 
+WASD - Movement  
+Space - Jump  
+E - Spellbook  
+C - Statistics  
+O - Level up  
+Shift - Enter cast mode  
+RightClick - Barrier/Cancel selected spell(if one is selected)  
+LeftClick - Fire/Draw(if in cast mode)/Cast selected spell(if one is selected)  
 
 To use a spell, you have to hold the Shift key and draw on the screen. The available spells and their associated drawings are shown in the spells.png file. 
 At first, it might seem difficult to draw the spell but after a few attempts it becomes simpler. Some of the lines have numbers meaning they have to 
