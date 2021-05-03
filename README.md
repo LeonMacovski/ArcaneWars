@@ -14,4 +14,4 @@ be drawn in that oreder(ascending). A spell can be either instantly cast upon dr
 to click the left mouse button to cast the spell. The selected spell will appear on the bottom right corner of the screen.
 
 *NOTE*
-For some unknown reason, whenever this file is downloaded, one of the inner files gets corrupted while being zipped and unzipped. To fix this, please
+For some unknown reason, whenever this file is downloaded, one of the inner files gets corrupted while being zipped and unzipped. To fix this, please download the Arcasharedassets0.assets.resS
